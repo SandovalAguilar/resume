@@ -25,6 +25,10 @@ Jan 2023\
 Oct 2022\
 **Exploratory data analysis from MisProfesores.com.** Performed an EDA based on the data from the site MisProfesores.com, which was obtained by using web scraping tools such as BeautifulSoup and RegEx.
 
+### Extracurricular 
+
+
+
 ### Programming languages and technologies
 
 **Programming**: Python, SQL, C, C++, R and Bash.\
@@ -32,9 +36,6 @@ Oct 2022\
 **Other**: Linux/CLI, Excel, LaTeX and Git/Github.
 
 ### Courses and certifications
-
-Jul 2023\
-**Advanced SQL**, Kaggle.
 
 Jan 2023\
 **Applied Data Science with Python**, IBM.
@@ -49,5 +50,14 @@ Jan 2022\
 
 English (B2) and spanish (native speaker).
 
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
