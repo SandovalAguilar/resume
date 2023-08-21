@@ -4,7 +4,6 @@ Monterrey, Nuevo León, México\
 +52 56 1091 7633\
 ismael.sandoval.aguilar@gmail.com\
 https://www.linkedin.com/in/ismael-sandoval/\
-https://github.com/SandovalAguilar
 
 ### Education
                   
@@ -27,13 +26,10 @@ Oct 2022\
 
 ### Extracurricular 
 
+Aug 2023 - Present\
+**SAP delegate member (Sociedad Académica de Programadores)**, Facultad de Ciencias Físico Matemáticas, UANL, San Nicolás de los Garza. Contributed as a content developer for the university programming community.
 
-
-### Programming languages and technologies
-
-**Programming**: Python, SQL, C, C++, R and Bash.\
-**Python libraries**: Pandas, Matplotlib, SciKit-Learn, BeautifulSoup, RegEx and NumPy.\
-**Other**: Linux/CLI, Excel, LaTeX and Git/Github.
+[comment]: <### Programming languages and technologies  **Programming**: Python, SQL, C, C++, R and Bash.\ **Python libraries**: Pandas, Matplotlib, SciKit-Learn, BeautifulSoup, RegEx and NumPy.\ **Other**: Linux/CLI, Excel, LaTeX and Git/Github.> 
 
 ### Courses and certifications
 
@@ -43,21 +39,18 @@ Jan 2023\
 Jul 2022\
 **Escuela de Verano: Modelación y Herramientas para el Análisis de Datos**, UANL.
 
-Jan 2022\
-**Data Analysis with Python**, FreeCodeCamp.
-
-### Languages
-
-English (B2) and spanish (native speaker).
+[comment]: <Jan 2022\ **Data Analysis with Python**, FreeCodeCamp > 
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Languages</b></td>
+    <td><b style="font-size:30px">Programming languages and technologies</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>English (B2) and spanish (native speaker).</td>
+    <td>Programming: Python, SQL, C, C++, R and Bash.
+    Python libraries: Pandas, Matplotlib, SciKit-Learn, BeautifulSoup, RegEx and NumPy.
+    Other: Linux/CLI, Excel, LaTeX and Git/Github.</td>
  </tr>
 </table>
 
