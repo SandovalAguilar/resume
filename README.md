@@ -41,7 +41,7 @@ Jul 2022\
 
 [comment]: <Jan 2022\ **Data Analysis with Python**, FreeCodeCamp > 
 
-<table border="0">
+<table border="1">
  <tr>
     <td><b style="font-size:30px">Languages</b></td>
     <td><b style="font-size:30px">Programming languages and technologies</b></td>
