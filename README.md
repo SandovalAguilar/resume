@@ -1,6 +1,9 @@
 # Ismael Sandoval Aguilar
 
-Monterrey, Nuevo León, México | +52 56 1091 7633 | ismael.sandoval.aguilar@gmail.com | https://www.linkedin.com/in/ismael-sandoval/
+Monterrey, Nuevo León, México\
++52 56 1091 7633\ 
+ismael.sandoval.aguilar@gmail.com\
+https://www.linkedin.com/in/ismael-sandoval/\
 
 ### Education
                   
