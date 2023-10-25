@@ -41,6 +41,10 @@ Jul 2022\
 
 [comment]: <Jan 2022\ **Data Analysis with Python**, FreeCodeCamp > 
 
+### Awards and scholarships 
+
+*Bécalos: Becas de Excelencia**, Facultad de Ciencias Físico Matemáticas, UANL, San Nicolás de los Garza. 
+
 <table border="1">
  <tr>
     <td><b style="font-size:30px">Languages</b></td>
