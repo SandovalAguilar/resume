@@ -43,6 +43,7 @@ Jul 2022\
 
 ### Awards and scholarships 
 
+Jan 2022\
 **Bécalos: Becas de Excelencia Académica**, Facultad de Ciencias Físico Matemáticas, UANL, San Nicolás de los Garza. 
 
 <table border="1">
