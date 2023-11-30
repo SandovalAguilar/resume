@@ -56,7 +56,7 @@ Nov 2023\
  <tr>
     <td>English (B2) and spanish (native speaker).</td>
     <td>Programming: Python, SQL, C/C++, R and Bash.
-    Other: Linux/CLI, Excel, LaTeX and Git/Github.</td>
+    Other: Linux/CLI, Excel, LaTeX, PowerBI and Git/Github.</td>
  </tr>
 </table>
 
