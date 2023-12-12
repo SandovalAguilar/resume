@@ -13,6 +13,11 @@ Aug 2021 - Present\
 Aug 2019 - Oct 2020\
 **B.S in Engineering Physics**, Instituto Tecnológico y de Estudios Superiores de Monterrey. Monterrey. GPA: 84/100. Relevant coursework: statistical analysis, intermediate mathematical modeling, matrix modeling, economics.
 
+### Work Experience
+
+Jun 2024 - Present\
+**Data Analyst intern**, Johnson Controls. Developed and audited dashboards in Power BI and Tableau, provided support in data analysis and database updates using Python and SQL, monitored KPIs, and collaborated in the creation of control tools for process automation.
+
 ### Projects
 
 Jul 2023\
@@ -30,7 +35,7 @@ Aug 2023 - Present\
 
 [comment]: <### Programming languages and technologies  **Programming**: Python, SQL, C, C++, R and Bash.\ **Python libraries**: Pandas, Matplotlib, SciKit-Learn, BeautifulSoup, RegEx and NumPy.\ **Other**: Linux/CLI, Excel, LaTeX and Git/Github.> 
 
-### Courses and certifications
+### Courses and Certifications
 
 Jan 2023\
 **Applied Data Science with Python**, IBM.
@@ -40,7 +45,7 @@ Jul 2022\
 
 [comment]: <Jan 2022\ **Data Analysis with Python**, FreeCodeCamp > 
 
-### Awards and scholarships 
+### Awards and Scholarships 
 
 Jan 2022\
 **Bécalos: Becas de Excelencia Académica**. Won a monthly scholarship for having a high academic performance.
