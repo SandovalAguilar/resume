@@ -28,11 +28,6 @@ Jan 2023\
 
 [comment]: <### Oct 2022\ **Exploratory data analysis from MisProfesores.com.** Performed an EDA based on the data from the site MisProfesores.com, which was obtained by using web scraping tools such as BeautifulSoup and RegEx.>
 
-### Extracurricular 
-
-Aug 2023 - Present\
-**Sociedad Académica de Programadores**, Facultad de Ciencias Físico Matemáticas, UANL, San Nicolás de los Garza. Contributed as a content developer for the university programming community.
-
 [comment]: <### Programming languages and technologies  **Programming**: Python, SQL, C, C++, R and Bash.\ **Python libraries**: Pandas, Matplotlib, SciKit-Learn, BeautifulSoup, RegEx and NumPy.\ **Other**: Linux/CLI, Excel, LaTeX and Git/Github.> 
 
 ### Courses and Certifications
