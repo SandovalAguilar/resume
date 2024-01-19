@@ -1,7 +1,7 @@
 ## Ismael Sandoval Aguilar
 
 Monterrey, Nuevo León, México\
-+52 56 1091 7633\
++52 813 263 1742\
 ismael.sandoval.aguilar@gmail.com\
 https://www.linkedin.com/in/ismael-sandoval/
 
