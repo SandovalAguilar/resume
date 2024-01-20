@@ -8,7 +8,7 @@ https://www.linkedin.com/in/ismael-sandoval/
 ### Education
                   
 Aug 2021 - Present\
-**B.S in Computer Science**, Facultad de Ciencias Físico Matemáticas, UANL. San Nicolás de los Garza. GPA: 90/100. Relevant coursework: databases, object-oriented programming, linear algebra, statistical inference, operations research.
+**B.S in Computer Science**, Facultad de Ciencias Físico Matemáticas, UANL. San Nicolás de los Garza. GPA: 90/100. Relevant coursework: databases, object-oriented programming, linear algebra, statistical inference, operations research, artificial intelligence.
 
 Aug 2019 - Oct 2020\
 **B.S in Engineering Physics**, Instituto Tecnológico y de Estudios Superiores de Monterrey. Monterrey. GPA: 84/100. Relevant coursework: statistical analysis, intermediate mathematical modeling, matrix modeling, economics.
@@ -20,11 +20,14 @@ Jun 2024 - Present\
 
 ### Projects
 
+Dec 2023\
+**Machine Learning-Enhanced Customer Segmentation for Targeted Retail Campaigns**. Implemented the K-prototypes algorithm to segment a retail company's customer base using a dataset of demographics and purchase history with Python and R. 
+
 Jul 2023\
-**Grouped frequency distribution table package in Python.** A Python package that generates a grouped frequency distribution table and calculates measures of central tendency and dispersion from a dataset by using scientific computing tools such as NumPy.
+**Grouped Frequency Distribution Table Package.** A Python package that generates a grouped frequency distribution table and calculates measures of central tendency and dispersion from a dataset by using scientific computing tools such as NumPy.
 
 Jan 2023\
-**Calorie and weight calculator.** A calculator that predicts the weight gain (or loss) of a person based on their average calorie intake by using machine learning tools such as Scikit-learn, NumPy and Pandas.
+**Calorie and Weight Calculator.** A calculator that predicts the weight gain (or loss) of a person based on their average calorie intake by using machine learning tools such as Scikit-learn, NumPy and Pandas.
 
 [comment]: <### Oct 2022\ **Exploratory data analysis from MisProfesores.com.** Performed an EDA based on the data from the site MisProfesores.com, which was obtained by using web scraping tools such as BeautifulSoup and RegEx.>
 
@@ -56,7 +59,7 @@ Nov 2023\
  <tr>
     <td>English (B2) and spanish (native speaker).</td>
     <td>Programming: Python, SQL, C/C++, R and Bash.
-    Other: Linux/CLI, Excel, LaTeX, PowerBI and Git/Github.</td>
+    Tools: Excel, LaTeX, PowerBI and Git/Github.</td>
  </tr>
 </table>
 
