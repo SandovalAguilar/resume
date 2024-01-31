@@ -15,7 +15,7 @@ Aug 2019 - Oct 2020\
 
 ### Work Experience
 
-Jun 2024 - Present\
+Jan 2024 - Present\
 **Data Analyst intern**, Johnson Controls. Developed and audited dashboards in Power BI and Tableau, provided support in data analysis and database updates using Python and SQL, monitored KPIs, and collaborated in the creation of control tools for process automation.
 
 ### Projects
