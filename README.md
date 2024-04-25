@@ -26,8 +26,10 @@ Dec 2023\
 Jul 2023\
 **Grouped Frequency Distribution Table Package.** A Python package that generates a grouped frequency distribution table and calculates measures of central tendency and dispersion from a dataset by using scientific computing tools such as NumPy.
 
-Jan 2023\
-**Calorie and Weight Calculator.** A calculator that predicts the weight gain (or loss) of a person based on their average calorie intake by using machine learning tools such as Scikit-learn, NumPy and Pandas.
+Apr 2024\
+**Manufacturer Performance Dashboard.** Designed and deployed a comprehensive BI dashboard using Power BI to visualize revenue trends, growth, and market segmentation, providing actionable insights for strategic decision-making.
+
+[comment]: <### Jan 2023\ **Calorie and Weight Calculator.** A calculator that predicts the weight gain (or loss) of a person based on their average calorie intake by using machine learning tools such as Scikit-learn, NumPy and Pandas.>
 
 [comment]: <### Oct 2022\ **Exploratory data analysis from MisProfesores.com.** Performed an EDA based on the data from the site MisProfesores.com, which was obtained by using web scraping tools such as BeautifulSoup and RegEx.>
 
