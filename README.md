@@ -20,7 +20,7 @@ Aug 2019 - Oct 2020\
 - Jan 2024 - Jul 2024\
 **Business Intelligence Intern**. Developed and audited dashboards in Power BI, provided support in data analysis and database updates using Python and SQL, monitored KPIs, and collaborated in the creation of control tools for process automation.
 - Jul 2024 - Present\
-**Data Engineering Intern**. Developed scripts in Python and R for data cleaning and automation processes, implemented statistical methods to detect anomalies and patterns in data, applied machine learning algorithms for label classification, and employed SQL and Power Automate for data ingestion processes.
+**Data Engineering Intern**. Developed scripts for data cleaning and implemented statistical methods to detect anomalies and patterns using Python and R, applied machine learning algorithms for label classification and employed SQL and Power Automate for data ingestion processes.
 
 ### Projects
 
