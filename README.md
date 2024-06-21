@@ -8,15 +8,19 @@ https://www.linkedin.com/in/ismael-sandoval/
 ### Education
                   
 Aug 2021 - Present\
-**B.S in Computer Science**, Facultad de Ciencias Físico Matemáticas, UANL. San Nicolás de los Garza. GPA: 90/100. Relevant coursework: databases, object-oriented programming, linear algebra, statistical inference, operations research, artificial intelligence.
+**B.S in Computer Science**, Facultad de Ciencias Físico Matemáticas, UANL. San Nicolás de los Garza. GPA: 90/100. Relevant coursework: databases, object-oriented programming, linear algebra, statistical inference, operations research, artificial intelligence, data mining.
 
 Aug 2019 - Oct 2020\
 **B.S in Engineering Physics**, Instituto Tecnológico y de Estudios Superiores de Monterrey. Monterrey. GPA: 84/100. Relevant coursework: statistical analysis, intermediate mathematical modeling, matrix modeling, economics.
 
 ### Work Experience
 
-Jan 2024 - Present\
-**Data Analyst intern**, Johnson Controls. Developed and audited dashboards in Power BI and Tableau, provided support in data analysis and database updates using Python and SQL, monitored KPIs, and collaborated in the creation of control tools for process automation.
+**Johnson Controls**
+
+- Jan 2024 - Jul 2024\
+**Business Intelligence Intern**. Developed and audited dashboards in Power BI, provided support in data analysis and database updates using Python and SQL, monitored KPIs, and collaborated in the creation of control tools for process automation.
+- Jul 2024 - Present\
+**Data Engineering Intern**. Developed scripts in Python and R for data cleaning and automation processes, implemented statistical methods to detect anomalies and patterns in data, applied machine learning algorithms for label classification, and employed SQL and Power Automate for data ingestion processes.
 
 ### Projects
 
